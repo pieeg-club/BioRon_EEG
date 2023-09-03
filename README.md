@@ -1,6 +1,6 @@
 # Open-source-active-electrode-for-biodata-measurement-of-EEG-EMG-etc.
 
-Slack to discussion 
+Slack to discussion - in progress 
 
 
 author Ildar Rakhmatuline 
@@ -20,7 +20,7 @@ Our repository hosts detailed schematics, layouts for creating active EEG electr
 
 📊 Data Analysis Tools: Access tools and scripts for processing, analyzing, and visualizing EEG data collected using the active electrodes. We believe that data-driven insights should be accessible to everyone.
 
-🤝 Contributing:     
+## 🤝 Contributing:     
 Whether you're an electronics wizard, a software guru, a neuroscience enthusiast, or just curious, your contributions are welcome! Check out our contributing guidelines to get involved in enhancing electrode designs, improving code, or collaborating on research.
 
 Our Vision:  
