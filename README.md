@@ -13,7 +13,7 @@ Our project aims to democratize the field of electroencephalography (EEG) by dev
 📚 Documentation: Check out our Wiki section for detailed guides and information. in the process
 
 What's Inside:
-🔌 Hardware Designs:   
+### 🔌 Hardware Designs:   
 Our repository hosts detailed schematics, layouts for creating active EEG electrodes. Whether you're a hardware enthusiast or a researcher, you can find everything you need to build your own electrodes from scratch.
 
 🧪 Testing and Validation: We're committed to ensuring the accuracy and reliability of our electrodes. Our testing protocols, validation results, and data analysis scripts are available for transparency and collaboration.
@@ -23,14 +23,14 @@ Our repository hosts detailed schematics, layouts for creating active EEG electr
 ### 🤝 Contributing:     
 Whether you're an electronics wizard, a software guru, a neuroscience enthusiast, or just curious, your contributions are welcome! Check out our contributing guidelines to get involved in enhancing electrode designs, improving code, or collaborating on research.
 
-Our Vision:  
+### Our Vision:  
 By providing open-source active EEG electrode designs, we're fostering collaboration, innovation, and knowledge sharing in the fields of neuroscience, bioengineering, and beyond. Our goal is to make high-quality EEG technology accessible to researchers, students, hobbyists, and clinicians worldwide, enabling a deeper understanding of the human brain and its functions.
 
 Join us in our mission to revolutionize EEG technology and make a significant impact on brain research! Feel free to reach out, contribute, and be part of the EEG revolution. 🧠🌍  
 
 Let's decode the mind together! 🚀🔓  
 
-Contact:
+### Contact:
 📧 Email: ildarr2016@gmail.com
 👾 Join our Discord community: in the process
 
