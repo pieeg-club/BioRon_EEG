@@ -1,4 +1,4 @@
-# Open-source-active-electrode-for-biodata-measurement-of-EEG-EMG-etc.
+# Open-source-active-electrode-for-biodata-measurement-of-EEG-EMG-etc. BioRon
 
 Slack to discussion - in progress 
 
