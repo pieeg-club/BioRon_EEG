@@ -1,5 +1,5 @@
 # Open-source-active-electrode-for-biodata-measurement-of-EEG-EMG-etc. BioRon_EEG
-![alt tag](https://github.com/Ildaron/BioRon_EEG/blob/main/supplementary%20files/image_2.jpg "general view")
+![alt tag](https://github.com/Ildaron/BioRon_EEG/blob/main/supplementary%20files/image_2.jpg "general view")  
 Slack to discussion - in progress 
 
 
