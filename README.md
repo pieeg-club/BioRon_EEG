@@ -1,7 +1,7 @@
 # Open-source-active-electrode-for-biodata-measurement-of-EEG-EMG-etc. BioRon_EEG
 ![alt tag](https://github.com/Ildaron/BioRon_EEG/blob/main/supplementary%20files/image_2.jpg "general view")  
 
-### Active electrode to measure EEG. On the board Low noise power supply, 2 stage Amplifier, Driven Right Leg, Band-Pass Filter, and ADC in one small board       
+### Active electrode to measure EEG. Low noise power supply, 2 stage Amplifier, Driven Right Leg, Band-Pass Filter, and ADC in one small board       
 
 author Ildar Rakhmatuline 
 email - ildarr2016@gmail.com
