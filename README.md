@@ -29,9 +29,7 @@ By providing open-source active EEG electrode designs, we're fostering collabora
 
 Join us in our mission to revolutionize EEG technology and make a significant impact on brain research! Feel free to reach out, contribute, and be part of the EEG revolution. 🧠🌍    
 
-Let's decode the mind together! 🚀🔓    
-
 ### Contact:
 📧 Email: ildarr2016@gmail.com  
-👾 Join our Discord community: in the process
+
 
