@@ -11,7 +11,6 @@ Welcome to the Active EEG Electrode Open-Source Project! 🧠⚡
 
 Our project aims to democratize the field of electroencephalography (EEG) by developing and sharing open-source designs for active EEG electrodes. EEG is a powerful technique for monitoring brain activity, but the cost and complexity of traditional EEG equipment have limited its accessibility. We're here to change that!  
 
-🌐 Website: in the process  
 📚 Documentation: Check out our Wiki section for detailed guides and information. in the process  
 
 What's Inside:  
