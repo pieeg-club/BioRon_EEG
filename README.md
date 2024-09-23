@@ -17,8 +17,6 @@ What's Inside:
 ### 🔌 Hardware Designs:      
 Our repository hosts detailed schematics, layouts for creating active EEG electrodes. Whether you're a hardware enthusiast or a researcher, you can find everything you need to build your own electrodes from scratch.  
 
-🧪 Testing and Validation: We're committed to ensuring the accuracy and reliability of our electrodes. Our testing protocols, validation results, and data analysis scripts are available for transparency and collaboration.  
-
 📊 Data Analysis Tools: Access tools and scripts for processing, analyzing, and visualizing EEG data collected using the active electrodes. We believe that data-driven insights should be accessible to everyone.  
 
 ### 🤝 Contributing:       
