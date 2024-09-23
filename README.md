@@ -25,7 +25,7 @@ Whether you're an electronics wizard, a software guru, a neuroscience enthusiast
 ### Our Vision:      
 By providing open-source active EEG electrode designs, we're fostering collaboration, innovation, and knowledge sharing in the fields of neuroscience, bioengineering, and beyond. Our goal is to make high-quality EEG technology accessible to researchers, students, hobbyists, and clinicians worldwide, enabling a deeper understanding of the human brain and its functions. 
 
-Join us in our mission to revolutionize EEG technology and make a significant impact on brain research! Feel free to reach out, contribute, and be part of the EEG revolution. 🧠🌍    
+Join us in PiEEG mission to revolutionize EEG technology and make a significant impact on brain research! Feel free to reach out, contribute, and be part of the EEG revolution. 🧠🌍    
 
 ### Contact:
 📧 Email: pieeg@pieeg.com
