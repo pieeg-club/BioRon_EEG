@@ -29,5 +29,7 @@ Join us in PiEEG mission to revolutionize EEG technology and make a significant 
 
 ### Contact:
 📧 Email: pieeg@pieeg.com
+paper
+https://www.preprints.org/manuscript/202409.1703/v1   
 
 
