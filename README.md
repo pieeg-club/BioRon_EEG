@@ -4,7 +4,6 @@
   <img src="https://github.com/pieeg-club/BioRon_EEG/blob/main/supplementary%20files/bioron.png" width="50%" height="50%" alt="generals view">
 </p>
 
-### Active electrode to measure EEG.    
 ### Low noise power supply, 2 stage Amplifier, Driven Right Leg, Band-Pass Filter, and ADC in one small board       
 
 Our project aims to democratize the field of electroencephalography (EEG) by developing and sharing open-source designs for active EEG electrodes. EEG is a powerful technique for monitoring brain activity, but the cost and complexity of traditional EEG equipment have limited its accessibility. We're here to change that!  
