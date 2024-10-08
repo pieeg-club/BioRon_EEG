@@ -12,7 +12,7 @@ Our project aims to democratize the field of electroencephalography (EEG) by dev
 Our repository hosts detailed schematics, and layouts for creating active EEG electrodes. Whether you're a hardware enthusiast or a researcher, you can find everything you need to build your own electrodes from scratch.  
 
 
-### 🤝 Contributing:       
+### Contributing:       
 Whether you're an electronics wizard, a software guru, a neuroscience enthusiast, or just curious, your contributions are welcome! 
 
 ### Our Vision:      
@@ -21,7 +21,7 @@ By providing open-source active EEG electrode designs, we're fostering collabora
 Join us in PiEEG mission to revolutionize EEG technology and make a significant impact on brain research! Feel free to reach out, contribute, and be part of the EEG revolution. 
 
 ### Contact:
-📧 Email: pieeg@pieeg.com  
+Email: pieeg@pieeg.com  
 paper  
 https://www.preprints.org/manuscript/202409.1703/v1  
 Cite as: 
