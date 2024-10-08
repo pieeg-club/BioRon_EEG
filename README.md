@@ -9,7 +9,7 @@ Low noise power supply, 2 stage Amplifier, Driven Right Leg, Band-Pass Filter, a
 
 Our project aims to democratize the field of electroencephalography (EEG) by developing and sharing open-source designs for active EEG electrodes. EEG is a powerful technique for monitoring brain activity, but the cost and complexity of traditional EEG equipment have limited its accessibility. We're here to change that!  
  
-Our repository hosts detailed schematics, layouts for creating active EEG electrodes. Whether you're a hardware enthusiast or a researcher, you can find everything you need to build your own electrodes from scratch.  
+Our repository hosts detailed schematics, and layouts for creating active EEG electrodes. Whether you're a hardware enthusiast or a researcher, you can find everything you need to build your own electrodes from scratch.  
 
 📊 Data Analysis Tools: Access tools and scripts for processing, analyzing, and visualizing EEG data collected using the active electrodes. We believe that data-driven insights should be accessible to everyone.  
 
