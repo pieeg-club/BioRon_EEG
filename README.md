@@ -1,5 +1,8 @@
 # Open-source active electrode for biodata measurement of EEG, EMG,  etc. BioRon_EEG from PiEEG
-![alt tag](https://github.com/pieeg-club/BioRon_EEG/blob/main/supplementary%20files/bioron.png "general view")  
+
+<p align="center">
+  <img src="https://github.com/pieeg-club/BioRon_EEG/blob/main/supplementary%20files/bioron.png" width="50%" height="50%" alt="generals view">
+</p>
 
 https://pieeg.com/  
 ### Active electrode to measure EEG.    
