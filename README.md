@@ -21,9 +21,10 @@ Join us in PiEEG mission to revolutionize EEG technology and make a significant 
 
 ### Contact:
 Email: pieeg@pieeg.com  
-paper  
-https://www.preprints.org/manuscript/202409.1703/v1  
+Website: https://pieeg.com/    
+
+Paper    
+https://www.preprints.org/manuscript/202409.1703/v1    
 Cite as: 
 rakhmatulin, I. A Novel Tiny Open-Source Board BioRon_EEG for Dry Active Electrode. Preprints 2024, 2024091703. https://doi.org/10.20944/preprints202409.1703.v1  
 
-https://pieeg.com/  
