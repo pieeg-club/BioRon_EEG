@@ -3,10 +3,10 @@
 
 https://pieeg.com/  
 ### Active electrode to measure EEG.    
-### Low noise power supply, 2 stage Amplifier, Driven Right Leg, Band-Pass Filter, and ADC in one small board       
+Low noise power supply, 2 stage Amplifier, Driven Right Leg, Band-Pass Filter, and ADC in one small board       
 
 author [PiEEG](https://pieeg.com/) for PCB boards.  
-email - pieeg@pieeg.com
+
 Welcome to the Active EEG Electrode Open-Source Project! 🧠⚡  
 
 Our project aims to democratize the field of electroencephalography (EEG) by developing and sharing open-source designs for active EEG electrodes. EEG is a powerful technique for monitoring brain activity, but the cost and complexity of traditional EEG equipment have limited its accessibility. We're here to change that!  
@@ -30,8 +30,8 @@ Join us in PiEEG mission to revolutionize EEG technology and make a significant 
 ### Contact:
 📧 Email: pieeg@pieeg.com  
 paper  
-https://www.preprints.org/manuscript/202409.1703/v1
-
+https://www.preprints.org/manuscript/202409.1703/v1  
+email - pieeg@pieeg.com  
 Cite as: 
 rakhmatulin, I. A Novel Tiny Open-Source Board BioRon_EEG for Dry Active Electrode. Preprints 2024, 2024091703. https://doi.org/10.20944/preprints202409.1703.v1  
 
