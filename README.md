@@ -5,21 +5,20 @@
 </p>
 
 ### Active electrode to measure EEG.    
-Low noise power supply, 2 stage Amplifier, Driven Right Leg, Band-Pass Filter, and ADC in one small board       
+### Low noise power supply, 2 stage Amplifier, Driven Right Leg, Band-Pass Filter, and ADC in one small board       
 
 Our project aims to democratize the field of electroencephalography (EEG) by developing and sharing open-source designs for active EEG electrodes. EEG is a powerful technique for monitoring brain activity, but the cost and complexity of traditional EEG equipment have limited its accessibility. We're here to change that!  
  
 Our repository hosts detailed schematics, and layouts for creating active EEG electrodes. Whether you're a hardware enthusiast or a researcher, you can find everything you need to build your own electrodes from scratch.  
 
-📊 Data Analysis Tools: Access tools and scripts for processing, analyzing, and visualizing EEG data collected using the active electrodes. We believe that data-driven insights should be accessible to everyone.  
 
 ### 🤝 Contributing:       
-Whether you're an electronics wizard, a software guru, a neuroscience enthusiast, or just curious, your contributions are welcome! Check out our contributing guidelines to get involved in enhancing electrode designs, improving code, or collaborating on research.
+Whether you're an electronics wizard, a software guru, a neuroscience enthusiast, or just curious, your contributions are welcome! 
 
 ### Our Vision:      
 By providing open-source active EEG electrode designs, we're fostering collaboration, innovation, and knowledge sharing in the fields of neuroscience, bioengineering, and beyond. Our goal is to make high-quality EEG technology accessible to researchers, students, hobbyists, and clinicians worldwide, enabling a deeper understanding of the human brain and its functions. 
 
-Join us in PiEEG mission to revolutionize EEG technology and make a significant impact on brain research! Feel free to reach out, contribute, and be part of the EEG revolution. 🧠🌍    
+Join us in PiEEG mission to revolutionize EEG technology and make a significant impact on brain research! Feel free to reach out, contribute, and be part of the EEG revolution. 
 
 ### Contact:
 📧 Email: pieeg@pieeg.com  
