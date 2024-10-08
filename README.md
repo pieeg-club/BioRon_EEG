@@ -28,8 +28,10 @@ By providing open-source active EEG electrode designs, we're fostering collabora
 Join us in PiEEG mission to revolutionize EEG technology and make a significant impact on brain research! Feel free to reach out, contribute, and be part of the EEG revolution. 🧠🌍    
 
 ### Contact:
-📧 Email: pieeg@pieeg.com
-paper
-https://www.preprints.org/manuscript/202409.1703/v1   
+📧 Email: pieeg@pieeg.com  
+paper  
+https://www.preprints.org/manuscript/202409.1703/v1  
+cite: 
+rakhmatulin, I. A Novel Tiny Open-Source Board BioRon_EEG for Dry Active Electrode. Preprints 2024, 2024091703. https://doi.org/10.20944/preprints202409.1703.v1  
 
 
